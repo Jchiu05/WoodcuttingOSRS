@@ -11,12 +11,7 @@ public abstract class Tasks extends ClientAccessor { //methods for superclasses 
     }
 
     public abstract boolean activate();
-    {
 
-    }
-
-    public abstract void execute();{
-
-    }
+    public abstract void execute();
 
 }
